@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "943847745012",
+    "firebase_url": "https://scan2shop-7555e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "scan2shop-7555e",
+    "storage_bucket": "scan2shop-7555e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943847745012:android:155b8661107a8d603e05a1",
+        "android_client_info": {
+          "package_name": "com.scan_2_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943847745012-t3k22svjhohjn5o9190jvtdm24l46ahh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjNPYH5s1cBsXRbJzxkWRMM5wPzNewWcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943847745012-t3k22svjhohjn5o9190jvtdm24l46ahh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
